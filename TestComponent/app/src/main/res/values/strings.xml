@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestComponent</string>
+    <string name="page_title">Page Title</string>
+    <string name="more">more</string>
+    <string name="search">search</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">favorite button</string>
+    <string name="content_description_search">search button</string>
+    <string name="content_description_more">more options</string>
+    <string name="test1">test!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">fragment1</string>
+    <string name="fragment2">fragment2</string>
+    <string name="fragment3">fragment3</string>
+    <string name="fragment4">fragment4</string>
+    <string name="fragment5">fragment5</string>
+
+</resources>
