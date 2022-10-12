@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2455" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/drawable/ic_favorite_24dp.xml" value="0.2455" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2455" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/drawable/ic_menu_24.xml" value="0.1915" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/drawable/ic_search_24dp.xml" value="0.2455" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/activity_main2.xml" value="0.253125" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/fragment_blank1.xml" value="0.25416666666666665" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/fragment_blank2.xml" value="0.24010416666666667" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/fragment_blank3.xml" value="0.24010416666666667" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/fragment_blank4.xml" value="0.25416666666666665" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/layout/fragment_blank5.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/menu/contextual_action_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/menu/floating_context_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/Android_developer/practice_android_app/TestComponent/app/src/main/res/menu/top_app_bar.xml" value="0.25416666666666665" />
       </map>
     </option>

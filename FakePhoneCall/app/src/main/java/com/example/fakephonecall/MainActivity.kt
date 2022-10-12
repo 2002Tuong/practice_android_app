@@ -21,10 +21,10 @@ class MainActivity : AppCompatActivity() {
         val inputView = findViewById<EditText>(R.id.phone_number)
         val button = findViewById<ImageView>(R.id.button_click)
 
-        if(ContextCompat.checkSelfPermission(this,android.Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED){
-            ActivityCompat.requestPermissions(this,
-                listOf(android.Manifest.permission.CALL_PHONE).toTypedArray(),100)
-        }
+//        if(ContextCompat.checkSelfPermission(this,android.Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED){
+//            ActivityCompat.requestPermissions(this,
+//                listOf(android.Manifest.permission.CALL_PHONE).toTypedArray(),100)
+//        }
 
 
         button.setOnClickListener {
